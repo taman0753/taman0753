@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I currently pursuing my Bachelor's of Technology in Computer Science Engineering with specialisation in [DevOps](https://aws.amazon.com/devops/what-is-devops/) from [UPES](https://www.upes.ac.in/).
-And also a Front-End Web Developer.
+I am also a Front-End Web Developer.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taman0753)
