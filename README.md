@@ -6,3 +6,5 @@ I am also a Front-End Web Developer.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taman0753)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taman0753&layout=compact)
+<br>
+
