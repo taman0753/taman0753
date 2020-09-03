@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**taman0753/taman0753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently pursuing my Bachelor's of Technology in Computer Science Engineering with specialisation in [DevOps](https://aws.amazon.com/devops/what-is-devops/) from [UPES](https://www.upes.ac.in/).
+And also a Front-End Web Developer.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<taman0753>&theme=<dark>" />
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taman0753)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taman0753&layout=compact)
