@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently pursuing my Bachelor's of Technology in Computer Science Engineering with specialisation in [DevOps](https://aws.amazon.com/devops/what-is-devops/) from [UPES](https://www.upes.ac.in/).
+I currently a software engineer working in the Devops at Koo India.
 
 
 
