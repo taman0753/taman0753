@@ -8,7 +8,7 @@
 </p>
 
 
-🏢 I’m currently working in [Koo India](https://www.kooapp.com/) as **DevOps Engineer**
+🏢 I’m currently working in [Durianpay](https://durianpay.id/) as **DevOps Engineer**
 
 💬 Ask me about **DevOps Tools and Practices**
 
